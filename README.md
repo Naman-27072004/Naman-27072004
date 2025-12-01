@@ -138,7 +138,7 @@ Tkinter UI + CNN model
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-27072004&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Naman-27072004&show_icons=true&theme=tokyonight" width="49%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Naman-27072004&show_icons=true&theme=tokyonight" width="49%" /> -->
 </p>
 
 <!-- <p align="center">
