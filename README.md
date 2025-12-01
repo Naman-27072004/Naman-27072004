@@ -3,9 +3,9 @@
 <!-- ======================================================= -->
 
 <!-- 🎉 TOP BANNER -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/5RHR6Ku.png" width="100%" alt="Naman Gupta Banner" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm <strong>Naman Gupta</strong></h1>
 
