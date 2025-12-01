@@ -141,9 +141,9 @@ Tkinter UI + CNN model
   <img src="https://github-readme-stats.vercel.app/api?username=Naman-27072004&show_icons=true&theme=tokyonight" width="49%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-27072004&layout=compact&theme=tokyonight" width="49%" />
-</p>
+</p> -->
 
 ### 🧩 Activity Graph
 <p align="center">
