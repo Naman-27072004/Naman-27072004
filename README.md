@@ -139,7 +139,7 @@ Built with HTML, CSS, JS & Bootstrap.
 ---
 
 ## 🔗 **Connect With Me**
-- 📧 Email: **naman7827970882@gmail.com**  
+- 📧 Email: **namangupta27072004@gmail.com**  
 - 💼 LinkedIn: **www.linkedin.com/in/namangupta27072004**  
 - 🌐 Portfolio: **https://naman27072004.pythonanywhere.com/**  
 
