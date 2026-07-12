@@ -100,63 +100,21 @@ I enjoy solving real-world problems through technology and love transforming inn
 
 # 🚀 Featured Projects
 
-## 🧠 TechTestHub
+> 🔒 *Note: The source code for these projects is currently set to private.*
 
+### 🛡️ [RockShield — AI Copyright Code](https://github.com/Naman-27072004/RockShield---AI-Copyright-Code-)
+IoT Powered Landslide Prediction System (with Government Copyright)
+*   **Tech Stack**: Python, Flask, Machine Learning, ESP32, IoT Sensors
+*   **Features**: Real-Time Risk Prediction, Sensor Monitoring, Alert System
+
+### 🧠 [TechTestHub](https://github.com/Naman-27072004/TechTestHub)
 AI Powered Online Assessment Platform
+*   **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Docker, AWS, MediaPipe, GitHub Actions
+*   **Features**: AI Question Generator, Face Proctoring, Role-Based Authentication, Dashboard Analytics, CI/CD Deployment, Online Coding Tests
 
-**Tech Stack**
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Docker
-- AWS
-- MediaPipe
-- GitHub Actions
-
-### Features
-
-- AI Question Generator
-- Face Proctoring
-- Role-Based Authentication
-- Dashboard Analytics
-- CI/CD Deployment
-- Online Coding Tests
-
----
-
-## 🌍 RockShield AI
-
-IoT Powered Landslide Prediction System
-
-**Tech Stack**
-
-- Python
-- Flask
-- Machine Learning
-- ESP32
-- IoT Sensors
-
-### Features
-
-- Real-Time Risk Prediction
-- Sensor Monitoring
-- Alert System
-- Government Copyright
-
----
-
-## 📱 EventBeacon
-
+### 📡 [EventBeacon](https://github.com/Naman-27072004/EventBeacon)
 Flutter + Firebase Event Management Application
-
-### Features
-
-- Google Login
-- Push Notifications
-- Offline Support
-- Firebase Backend
+*   **Features**: Google Login, Push Notifications, Offline Support, Firebase Backend
 
 ---
 
@@ -278,16 +236,6 @@ Flutter + Firebase Event Management Application
 </p>
 
 > 💡 **Tip:** The snake animation is automatically generated and updated daily via a [GitHub Action](.github/workflows/generate-snake.yml).
-
----
-
-# 📌 Featured Repositories
-
-> 🔒 *Note: The source code for these featured projects is currently set to private.*
-
-*   🛡️ **[RockShield — AI Copyright Code](https://github.com/Naman-27072004/RockShield---AI-Copyright-Code-)** - AI-powered platform for copyright protection and source code similarity analysis.
-*   📡 **[EventBeacon](https://github.com/Naman-27072004/EventBeacon)** - A real-time event discovery and beacon notification network.
-*   🧪 **[TechTestHub](https://github.com/Naman-27072004/TechTestHub)** - A testing platform for developer technical assessments.
 
 ---
 
