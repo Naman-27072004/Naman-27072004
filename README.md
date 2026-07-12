@@ -337,7 +337,7 @@ Flutter + Firebase Event Management Application
 
 # ✍️ Guestbook
 
-Do you like my projects or just want to say hi? Feel free to **[sign my guestbook](https://github.com/Naman-27072004/Naman-27072004/issues/new?title=GUEST_BOOK_ENTRY%3A+Write+your+message+here)**!
+Do you like my projects or just want to say hi? Feel free to **[sign my guestbook](https://github.com/Naman-27072004/Naman-27072004/issues/new?template=guestbook.md)**!
 
 <!--START_SECTION:guestbook-section-->
 <!--END_SECTION:guestbook-section-->
