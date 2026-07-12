@@ -81,17 +81,17 @@ I enjoy solving real-world problems through technology and love transforming inn
 🥇 **Government of India Copyright**
 > Granted by Government of India for "RockShield AI: A Real-Time Landslide Risk Prediction System Using IoT & Machine Learning" (Certificate No. LD-20260182948, Mar 2026)
 
-🥇 **1st Prize — IDEA SHOWCASE**
+🥇 **1st Prize — IDEA SHOWCASE** (JIMS Rohini)
 
-🏆 **Winner — Pitch Perfect Competition 2.0**
+🏆 **Winner — Pitch Perfect Competition 2.0** (JIMS Rohini)
 
-🚀 **Smart India Hackathon Internal Winner**
+🚀 **Smart India Hackathon Internal Winner** (JIMS Rohini)
 
 🥉 **3rd Position — InnovateX Hackathon** (Sri Aurobindo College)
 
 🥉 **3rd Position — Innov8e Hackathon** (The NorthCap University, Gurgaon)
 
-👨‍🏫 AI Workshop Trainer
+👨‍🏫 AI Workshop Trainer (JIMS Rohini)
 
 📚 Published Research:
 > **Using Generative AI in Cybersecurity**
