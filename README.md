@@ -104,16 +104,17 @@ I enjoy solving real-world problems through technology and love transforming inn
 
 ### 🛡️ [RockShield — AI Copyright Code](https://github.com/Naman-27072004/RockShield---AI-Copyright-Code-)
 IoT Powered Landslide Prediction System (with Government Copyright)
-*   **Tech Stack**: Python, Flask, Machine Learning, ESP32, IoT Sensors
+*   **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-005C9E?style=flat-square)
 *   **Features**: Real-Time Risk Prediction, Sensor Monitoring, Alert System
 
 ### 🧠 [TechTestHub](https://github.com/Naman-27072004/TechTestHub)
 AI Powered Online Assessment Platform
-*   **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Docker, AWS, MediaPipe, GitHub Actions
+*   **Tech Stack**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 *   **Features**: AI Question Generator, Face Proctoring, Role-Based Authentication, Dashboard Analytics, CI/CD Deployment, Online Coding Tests
 
 ### 📡 [EventBeacon](https://github.com/Naman-27072004/EventBeacon)
 Flutter + Firebase Event Management Application
+*   **Tech Stack**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 *   **Features**: Google Login, Push Notifications, Offline Support, Firebase Backend
 
 ---
@@ -256,6 +257,13 @@ Flutter + Firebase Event Management Application
     <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
   </a>
 </p>
+
+---
+
+# ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
