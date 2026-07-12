@@ -1,0 +1,24 @@
+name: Update Guestbook
+
+on:
+  issues:
+    types: [opened, edited]
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  update_guestbook:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Update Guestbook Feed
+        uses: nfhipona/guestbook-workflow@main
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: 'main'
+          section_identifier: 'guestbook-section'
+          entry_labels: 'guestbook_entry'
