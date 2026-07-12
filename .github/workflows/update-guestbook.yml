@@ -22,3 +22,5 @@ jobs:
           target_branch: 'main'
           section_identifier: 'guestbook-section'
           entry_labels: ''
+          comment_link_template: ' '
+
