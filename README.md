@@ -263,6 +263,11 @@ Flutter + Firebase Event Management Application
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+2. 💪 Opened PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+3. 🎉 Merged PR [#2](https://github.com/MalyaKapoor/ResearchLens-AI/pull/2) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+4. 💪 Opened PR [#2](https://github.com/MalyaKapoor/ResearchLens-AI/pull/2) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+5. 🎉 Merged PR [#1](https://github.com/MalyaKapoor/ResearchLens-AI/pull/1) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
 <!--END_SECTION:activity-->
 
 ---
