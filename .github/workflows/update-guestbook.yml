@@ -21,4 +21,4 @@ jobs:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'main'
           section_identifier: 'guestbook-section'
-          entry_labels: 'guestbook_entry'
+          entry_labels: ''
