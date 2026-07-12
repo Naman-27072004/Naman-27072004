@@ -283,25 +283,11 @@ Flutter + Firebase Event Management Application
 
 # 📌 Featured Repositories
 
-<p align="center">
+> 🔒 *Note: The source code for these featured projects is currently set to private.*
 
-<a href="https://github.com/Naman-27072004/RockShield---AI-Copyright-Code-">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=Naman-27072004&repo=RockShield---AI-Copyright-Code-&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/Naman-27072004/EventBeacon">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=Naman-27072004&repo=EventBeacon&theme=github_dark&hide_border=true" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Naman-27072004/TechTestHub">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=Naman-27072004&repo=TechTestHub&theme=github_dark&hide_border=true" />
-</a>
-
-</p>
+*   🛡️ **[RockShield — AI Copyright Code](https://github.com/Naman-27072004/RockShield---AI-Copyright-Code-)** - AI-powered platform for copyright protection and source code similarity analysis.
+*   📡 **[EventBeacon](https://github.com/Naman-27072004/EventBeacon)** - A real-time event discovery and beacon notification network.
+*   🧪 **[TechTestHub](https://github.com/Naman-27072004/TechTestHub)** - A testing platform for developer technical assessments.
 
 ---
 
