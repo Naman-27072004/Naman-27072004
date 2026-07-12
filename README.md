@@ -278,11 +278,11 @@ Flutter + Firebase Event Management Application
 
 # 📈 GitHub Metrics *(Premium)*
 
-> Requires **lowlighter/metrics GitHub Action**
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naman-27072004/Naman-27072004/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/Naman-27072004/Naman-27072004/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
+> 💡 **Tip:** These metrics are automatically updated daily via a [GitHub Action](.github/workflows/github-metrics.yml).
 
 ---
 

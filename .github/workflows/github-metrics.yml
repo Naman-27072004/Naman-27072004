@@ -1,0 +1,37 @@
+name: GitHub Metrics
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual triggering from the Actions tab
+  workflow_dispatch:
+  # Run on every push to the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Generate Metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token (configured as METRICS_TOKEN in repository secrets)
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+          
+          # Languages Plugin
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          
+          # Achievements Plugin
+          plugin_achievements: yes
+          plugin_achievements_display: compact
