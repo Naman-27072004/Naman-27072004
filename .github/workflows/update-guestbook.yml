@@ -3,27 +3,101 @@ name: Update Guestbook
 on:
   issues:
     types: [opened, edited]
-  workflow_dispatch:      # Allows manual triggering
-
-env:
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+  workflow_dispatch:
 
 jobs:
   update_guestbook:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        
-      - name: Update Guestbook Feed
-        uses: nfhipona/guestbook-workflow@main
-        with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: 'main'
-          section_identifier: 'guestbook-section'
-          entry_labels: ''
-          comment_link_template: ' '
 
+      - name: Update Guestbook in README
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          ISSUE_AVATAR: ${{ github.event.issue.user.avatar_url }}
+          ISSUE_DATE: ${{ github.event.issue.created_at }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import os, re
+          from datetime import datetime
+
+          title   = os.environ.get("ISSUE_TITLE", "").strip()
+          body    = os.environ.get("ISSUE_BODY", "").strip()
+          user    = os.environ.get("ISSUE_USER", "").strip()
+          avatar  = os.environ.get("ISSUE_AVATAR", "").strip()
+          raw_date = os.environ.get("ISSUE_DATE", "").strip()
+
+          # Only process guestbook entries
+          if not title.startswith("GUEST_BOOK_ENTRY:"):
+              print("Not a guestbook entry — skipping.")
+              exit(0)
+
+          # Extract the user's message after the prefix
+          message_title = title.replace("GUEST_BOOK_ENTRY:", "").strip()
+
+          # Format the date
+          try:
+              dt = datetime.strptime(raw_date, "%Y-%m-%dT%H:%M:%SZ")
+              date_str = dt.strftime("%b %d, %Y")
+          except:
+              date_str = raw_date[:10]
+
+          # Build the new entry line
+          profile_url = f"https://github.com/{user}"
+          avatar_tag  = f'<img src="{avatar}" width="25" height="25" style="border-radius:50%"/>'
+          entry = (
+              f'<a href="{profile_url}">{avatar_tag}</a> '
+              f'**[{user}]({profile_url})** &nbsp;·&nbsp; *{date_str}*  \n'
+              f'> {body}\n'
+          )
+
+          # Read README
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          START = "<!--START_SECTION:guestbook-section-->"
+          END   = "<!--END_SECTION:guestbook-section-->"
+
+          if START not in content or END not in content:
+              print("ERROR: Markers not found in README.md")
+              exit(1)
+
+          # Extract existing entries and prepend new one
+          pattern = re.compile(re.escape(START) + r"(.*?)" + re.escape(END), re.DOTALL)
+          match = pattern.search(content)
+          existing = match.group(1).strip() if match else ""
+          updated_block = f"\n{entry}\n{existing}\n" if existing else f"\n{entry}\n"
+
+          new_content = pattern.sub(f"{START}{updated_block}{END}", content)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print(f"✅ Added guestbook entry from @{user}")
+          EOF
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git commit -m "guestbook: new entry from @${{ github.event.issue.user.login }} [skip ci]"; then
+            git pull --rebase origin main
+            git push
+          else
+            echo "Nothing to commit."
+          fi
+
+      - name: Close Issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue close ${{ github.event.issue.number }} --comment "✍️ Thanks for signing! Your message has been published to the guestbook. 🎉"
