@@ -1,170 +1,375 @@
 <!-- ======================================================= -->
-<!--                    Naman Gupta README                    -->
+<!--                 Naman Gupta | GitHub README              -->
 <!-- ======================================================= -->
 
-<!-- 🎉 TOP BANNER -->
-<!-- <p align="center">
-  <img src="https://i.imgur.com/5RHR6Ku.png" width="100%" alt="Naman Gupta Banner" />
-</p> -->
-
-<h1 align="center">👋 Hi, I'm <strong>Naman Gupta</strong></h1>
+<h1 align="center">Hi 👋, I'm Naman Gupta</h1>
 
 <p align="center">
-  <strong>💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | 🎓 MCA @ JIMS Rohini (2025)</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+Engineer;Building+Scalable+Products;React+%7C+Node.js+%7C+Python+%7C+Flutter+%7C+AWS" />
+</p>
+
+<h3 align="center">
+Software Engineering Intern • Full Stack Developer • AI & Cloud Enthusiast
+</h3>
+
+<p align="center">
+Building scalable applications with modern web technologies, Artificial Intelligence, Cloud Computing, and IoT.
 </p>
 
 <p align="center">
-  I love building scalable full-stack apps, AI-powered systems, and real-world projects that create impact.  
-  Currently pursuing MCA at <strong>JIMS Rohini</strong>, after completing BCA from <strong>SIMS (GGSIPU)</strong>.
+<a href="mailto:namangupta27072004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/namangupta27072004">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://naman27072004.pythonanywhere.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 Quick Stats
+# 🚀 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naman-27072004&color=blue&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Naman-27072004?style=for-the-badge&color=brightgreen" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Naman-27072004?style=for-the-badge&color=yellow" alt="Stars"/>
-</p>
+I'm **Naman Gupta**, a Software Engineering Intern passionate about building scalable software that combines **Full Stack Development, Artificial Intelligence, Cloud Computing, and Automation**.
 
----
+Currently pursuing **Master of Computer Applications (MCA)** at **JIMS Rohini**, after completing my **Bachelor of Computer Applications (BCA)** from **Sirifort Institute of Management Studies (GGSIPU).**
 
-## 🎓 Education & Background
-
-- **MCA** — JIMS, Rohini (2025)  
-- **BCA** — Sirifort Institute of Management Studies, GGSIPU (2022–2025)
-
-💡 Passionate about merging **AI + Full Stack Development** to create powerful, intelligent systems.
+I enjoy solving real-world problems through technology and love transforming innovative ideas into production-ready applications.
 
 ---
 
-## 🌟 Innovation, Events & Achievements
+# 💼 Experience
 
-### 🏆 **1st Prize – IDEA SHOWCASE (JIMS IIC)**
-- Presented *“Enhanced AI Business Ecosystem”* — praised for innovation & clarity.
+## 💻 Software Engineering Intern — NovoInvent Software
 
-### 🚀 **Smart India Hackathon 2025**
-- Winner of internal round  
-- Selected team for SIH 2025  
-- **Project:** RockShield AI — Real-Time Landslide Prediction
+**Current**
 
-### 🥇 **IIC Ideathon 2025 – 1st Prize**
-- Built an AI-based platform that converts ideas → deployable digital businesses.
-
-### 🌱 INNOFEST – Entrepreneurship Day (GIBS)
-### 🧠 AI Workshop Trainer – Lancers Convent School
-### 🧩 Incubation Center Work – JIMS Rohini
+- Building responsive enterprise web applications
+- Developing SQL-based reports
+- Creating Power BI dashboards
+- Working on production-grade software solutions
 
 ---
 
-## 💼 Work Experience
+## 🌐 Web Developer — Cybey
 
-### **Full-Stack Developer Intern — SIMS (2024)**
-- Built full MERN e-commerce system (auth, cart, checkout)
-
-### **Web Developer — Cybey (2025)**
-- Built Product Gallery, Donation Form, custom PHP/JS modules
+- Developed responsive client websites
+- Built Donation Management System
+- Developed Gallery Management Module
+- HTML • CSS • JavaScript • PHP
 
 ---
 
-## 🛠️ Skills & Technologies
+## ⚡ Full Stack Developer Intern — Sirifort Institute of Management Studies
 
-### 🧰 **Languages & Tools (Icons)**
+- Built MERN E-Commerce Platform
+- JWT Authentication
+- Product Management
+- Shopping Cart
+- Payment Integration
+- Responsive React Frontend
+
+---
+
+# 🏆 Achievements
+
+🥇 **Government of India Copyright**
+> RockShield AI – Real-Time Landslide Risk Prediction System using IoT & Machine Learning
+
+🥇 **1st Prize — IDEA SHOWCASE**
+
+🏆 **Winner — Pitch Perfect Competition 2.0**
+
+🚀 **Smart India Hackathon Internal Winner**
+
+🥉 **3rd Position — Innov8e Hackathon**
+
+🥉 **3rd Position — InnovateX Hackathon**
+
+👨‍🏫 AI Workshop Trainer
+
+📚 Published Research:
+> **Using Generative AI in Cybersecurity**
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 TechTestHub
+
+AI Powered Online Assessment Platform
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+- AWS
+- MediaPipe
+- GitHub Actions
+
+### Features
+
+- AI Question Generator
+- Face Proctoring
+- Role-Based Authentication
+- Dashboard Analytics
+- CI/CD Deployment
+- Online Coding Tests
+
+---
+
+## 🌍 RockShield AI
+
+IoT Powered Landslide Prediction System
+
+**Tech Stack**
+
+- Python
+- Flask
+- Machine Learning
+- ESP32
+- IoT Sensors
+
+### Features
+
+- Real-Time Risk Prediction
+- Sensor Monitoring
+- Alert System
+- Government Copyright
+
+---
+
+## 📱 EventBeacon
+
+Flutter + Firebase Event Management Application
+
+### Features
+
+- Google Login
+- Push Notifications
+- Offline Support
+- Firebase Backend
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,fastapi,tensorflow,sklearn,opencv,bootstrap,html,css,vscode,git,github,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,cpp" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🎯 **Skill Badges**
-#### **Full Stack**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+---
 
-#### **AI & ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+### 🎨 Frontend
 
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-#### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
 ---
 
-## 🗂️ Featured Projects
+### ⚙️ Backend
 
-### 🚨 **RockShield AI — Real-Time Landslide Prediction (SIH 2025)**
-AI + IoT system analyzing terrain risk levels in real-time.
-
-### 🐶 **Pet Breed & Disease Analysis API**
-FastAPI • SQLAlchemy • GPT-4o • Swagger  
-➡️ https://github.com/Naman-27072004/pet-breed-analysis
-
-### 🛒 **E-Commerce Platform (MERN)**  
-Auth • Cart • Checkout • Product Management
-
-### 📊 Credit Card Fraud Detection (ML)
-Detects anomalies using ML models (Random Forest, Logistic Regression)
-
-### 🧠 Movie Recommendation System
-Content-based filtering using cosine similarity
-
-### 🐾 DrawDigit — CNN Digit Classifier
-Tkinter UI + CNN model
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
-## 📜 Certifications
+### 📱 Mobile
 
-- Data Analytics — PySpiders  
-- Python Developer — ZTM  
-- Complete 2024 Web Development Bootcamp  
-- Leadership Certificate (Technical Head — College Fest)  
-- Technical Society Membership (SIMS)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+---
+
+<!-- ===================================================== -->
+<!--                 📊 GitHub Analytics                    -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-27072004&theme=tokyonight" width="49%" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Naman-27072004&show_icons=true&theme=tokyonight" width="49%" /> -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-27072004&theme=github_dark" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-27072004&layout=compact&theme=tokyonight" width="49%" />
-</p> -->
-
-### 🧩 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-27072004&theme=tokyo-night" />
-</p>
-
----
-
-## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:namangupta27072004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/namangupta27072004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://naman27072004.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naman-27072004&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naman-27072004&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naman-27072004&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=Naman-27072004&theme=github-dark-blue&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-## ✨ Quote I Live By
-> “Every project teaches you something. Every failure teaches you more.”
+# 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-27072004&theme=github-dark&hide_border=true&radius=12" />
+</p>
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naman-27072004/Naman-27072004/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+> **⚠️ Note:** This requires a GitHub Action to generate the snake animation.
+
+---
+
+# 📈 GitHub Metrics *(Premium)*
+
+> Requires **lowlighter/metrics GitHub Action**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naman-27072004/Naman-27072004/main/github-metrics.svg" />
+</p>
+
+---
+
+# ☕ Support
+
+<p align="center">
+  <a href="https://github.com/sponsors">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced System Design
+- AWS Cloud
+- Docker & Kubernetes
+- AI Agents
+- Large Language Models
+- DevOps
+
+---
+
+# 📜 Certifications
+
+- Complete 2024 Web Development Bootcamp
+- Data Analytics
+- Building Strong Foundations Using C & C++
+- Technical Society Membership
+- Leadership Certificate
+- Hack Vortex – Best Idea Award
+
+---
+
+# 🎓 Education
+
+### Master of Computer Applications (MCA)
+
+**Jagan Institute of Management Studies (JIMS Rohini)**
+
+2025 – 2027
+
+---
+
+### Bachelor of Computer Applications (BCA)
+
+**Sirifort Institute of Management Studies (GGSIPU)**
+
+2022 – 2025
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:namangupta27072004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/namangupta27072004">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://naman27072004.pythonanywhere.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Code with purpose. Build with passion. Learn continuously. Create impact."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Naman-27072004&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/Naman-27072004?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Naman-27072004?style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
+</h3>
