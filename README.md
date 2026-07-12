@@ -304,7 +304,7 @@ Flutter + Firebase Event Management Application
 # ☕ Support
 
 <p align="center">
-  <a href="https://github.com/sponsors">
+  <a href="https://github.com/sponsors/Naman-27072004">
     <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
   </a>
 </p>
