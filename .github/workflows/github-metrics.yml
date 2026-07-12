@@ -33,5 +33,4 @@ jobs:
           plugin_languages_details: percentage
           
           # Achievements Plugin
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements: no

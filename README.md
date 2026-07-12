@@ -250,11 +250,11 @@ Flutter + Firebase Event Management Application
 
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=Naman-27072004&theme=github-dark-blue&hide_border=true&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naman-27072004&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Naman-27072004&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-27072004&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Naman-27072004&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -286,11 +286,11 @@ Flutter + Firebase Event Management Application
 <p align="center">
 
 <a href="https://github.com/Naman-27072004/RockShield---AI-Copyright-Code-">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman-27072004&repo=RockShield---AI-Copyright-Code-&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=Naman-27072004&repo=RockShield---AI-Copyright-Code-&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/Naman-27072004/EventBeacon">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman-27072004&repo=EventBeacon&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=Naman-27072004&repo=EventBeacon&theme=github_dark&hide_border=true" />
 </a>
 
 </p>
@@ -298,7 +298,7 @@ Flutter + Firebase Event Management Application
 <p align="center">
 
 <a href="https://github.com/Naman-27072004/TechTestHub">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman-27072004&repo=TechTestHub&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=Naman-27072004&repo=TechTestHub&theme=github_dark&hide_border=true" />
 </a>
 
 </p>
