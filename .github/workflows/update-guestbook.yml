@@ -5,6 +5,9 @@ on:
     types: [opened, edited]
   workflow_dispatch:      # Allows manual triggering
 
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+
 jobs:
   update_guestbook:
     runs-on: ubuntu-latest
