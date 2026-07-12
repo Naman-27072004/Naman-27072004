@@ -71,11 +71,21 @@ jobs:
               print("ERROR: Markers not found in README.md")
               exit(1)
 
+          MAX_ENTRIES = 10
+
           # Extract existing entries and prepend new one
           pattern = re.compile(re.escape(START) + r"(.*?)" + re.escape(END), re.DOTALL)
           match = pattern.search(content)
           existing = match.group(1).strip() if match else ""
-          updated_block = f"\n{entry}\n{existing}\n" if existing else f"\n{entry}\n"
+
+          # Split existing into individual entries (separated by blank lines between entries)
+          existing_entries = [e.strip() for e in re.split(r"\n(?=<a href)", existing) if e.strip()]
+
+          # Prepend new entry and cap at MAX_ENTRIES
+          all_entries = [entry.strip()] + existing_entries
+          all_entries = all_entries[:MAX_ENTRIES]
+
+          updated_block = "\n\n" + "\n\n".join(all_entries) + "\n\n"
 
           new_content = pattern.sub(f"{START}{updated_block}{END}", content)
 
