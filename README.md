@@ -292,12 +292,10 @@ Flutter + Firebase Event Management Application
 
 # 📜 Certifications
 
-| Rank | Certificate | Rating |
-| :---: | :--- | :---: |
-| 🥇 1 | Data Analytics with Python (NPTEL – IIT Roorkee) | 10/10 |
-| 🥈 2 | InnovateX Hackathon – 3rd Position (E-Summit'26) | 9.8/10 |
-| 🥉 3 | INNOV8E 2026 – 3rd Position Winner | 9.8/10 |
-| 4 | Hack Vortex – Best Idea Award (Certificate of Excellence) | 9.7/10 |
+- Data Analytics with Python (NPTEL – IIT Roorkee)
+- InnovateX Hackathon – 3rd Position (E-Summit'26)
+- INNOV8E 2026 – 3rd Position Winner
+- Hack Vortex – Best Idea Award (Certificate of Excellence)
 
 ---
 
