@@ -270,11 +270,11 @@ Flutter + Firebase Event Management Application
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
-2. 💪 Opened PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
-3. 🎉 Merged PR [#2](https://github.com/MalyaKapoor/ResearchLens-AI/pull/2) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
-4. 💪 Opened PR [#2](https://github.com/MalyaKapoor/ResearchLens-AI/pull/2) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
-5. 🎉 Merged PR [#1](https://github.com/MalyaKapoor/ResearchLens-AI/pull/1) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+1. ❗ Opened issue [#1](https://github.com/Naman-27072004/Naman-27072004/issues/1) in [Naman-27072004/Naman-27072004](https://github.com/Naman-27072004/Naman-27072004)
+2. 🎉 Merged PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+3. 💪 Opened PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+4. 🎉 Merged PR [#2](https://github.com/MalyaKapoor/ResearchLens-AI/pull/2) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+5. 💪 Opened PR [#2](https://github.com/MalyaKapoor/ResearchLens-AI/pull/2) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
 <!--END_SECTION:activity-->
 
 ---
