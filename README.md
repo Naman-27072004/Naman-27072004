@@ -125,7 +125,7 @@ Flutter + Firebase Event Management Application
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,python,php,cpp" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -142,7 +142,7 @@ Flutter + Firebase Event Management Application
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
@@ -174,11 +174,11 @@ Flutter + Firebase Event Management Application
 ### 🤖 AI / Machine Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge" />
+  <img height="40" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
@@ -187,7 +187,7 @@ Flutter + Firebase Event Management Application
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img height="40" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 ---
 
