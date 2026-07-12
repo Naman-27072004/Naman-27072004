@@ -45,41 +45,41 @@ I enjoy solving real-world problems through technology and love transforming inn
 
 # 💼 Experience
 
-## 💻 Software Engineering Intern — NovoInvent Software
+## 💻 Software Engineering Intern — NovoInvent Software Pvt. Ltd.
 
-**Current**
+**June 2026 — Present | Noida**
 
-- Building responsive enterprise web applications
-- Developing SQL-based reports
-- Creating Power BI dashboards
-- Working on production-grade software solutions
+- Developed responsive UI components using HTML5 and CSS3 for internal applications.
+- Created interactive Power BI dashboards to visualize business metrics.
+- Designed SQL queries for data retrieval and reporting.
+- Worked on production-grade software solutions.
 
 ---
 
-## 🌐 Web Developer — Cybey
+## 🌐 Web Developer Intern — Cybey
 
-- Developed responsive client websites
-- Built Donation Management System
-- Developed Gallery Management Module
-- HTML • CSS • JavaScript • PHP
+**March 2025 — April 2025 | Delhi**
+
+- Developed and deployed a live Donation Management System using HTML, CSS, JavaScript, and PHP.
+- Built a responsive Gallery Management module for a commercial website.
+- Implemented backend validation, secure form handling, and cross-browser compatibility.
+- Worked on real client projects following industry-standard development practices.
 
 ---
 
 ## ⚡ Full Stack Developer Intern — Sirifort Institute of Management Studies
 
-- Built MERN E-Commerce Platform
-- JWT Authentication
-- Product Management
-- Shopping Cart
-- Payment Integration
-- Responsive React Frontend
+**2024**
+
+- Built MERN E-Commerce Platform with JWT Authentication, Product Management, and a Shopping Cart.
+- Integrated payment options and developed a responsive React frontend.
 
 ---
 
 # 🏆 Achievements
 
 🥇 **Government of India Copyright**
-> RockShield AI – Real-Time Landslide Risk Prediction System using IoT & Machine Learning
+> Granted by Government of India for "RockShield AI: A Real-Time Landslide Risk Prediction System Using IoT & Machine Learning" (Certificate No. LD-20260182948, Mar 2026)
 
 🥇 **1st Prize — IDEA SHOWCASE**
 
@@ -87,9 +87,9 @@ I enjoy solving real-world problems through technology and love transforming inn
 
 🚀 **Smart India Hackathon Internal Winner**
 
-🥉 **3rd Position — Innov8e Hackathon**
+🥉 **3rd Position — InnovateX Hackathon** (Sri Aurobindo College)
 
-🥉 **3rd Position — InnovateX Hackathon**
+🥉 **3rd Position — Innov8e Hackathon** (The NorthCap University, Gurgaon)
 
 👨‍🏫 AI Workshop Trainer
 
@@ -104,16 +104,19 @@ I enjoy solving real-world problems through technology and love transforming inn
 
 ### 🛡️ [RockShield — AI Copyright Code](https://github.com/Naman-27072004/RockShield---AI-Copyright-Code-)
 IoT Powered Landslide Prediction System (with Government Copyright)
+*   **Description**: Developed an IoT-enabled landslide risk prediction system using ESP32, Python, Flask, and Random Forest, processing real-time sensor data every 15 seconds to achieve 87.5% accuracy, with live cloud deployment, REST APIs, ThingSpeak integration, and sub-200 ms alert generation.
 *   **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-005C9E?style=flat-square)
-*   **Features**: Real-Time Risk Prediction, Sensor Monitoring, Alert System
+*   **Features**: Real-Time Risk Prediction, Sensor Monitoring, Alert System, Government Copyright
 
 ### 🧠 [TechTestHub](https://github.com/Naman-27072004/TechTestHub)
 AI Powered Online Assessment Platform
+*   **Description**: Built and deployed a full-stack online assessment platform using React, Node.js, Express.js, MongoDB, and AWS, supporting 150+ users and 100+ concurrent exam sessions with JWT authentication, AI-powered question generation (Google Gemini), MediaPipe-based proctoring, and Docker-based cloud deployment with GitHub Actions CI/CD.
 *   **Tech Stack**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 *   **Features**: AI Question Generator, Face Proctoring, Role-Based Authentication, Dashboard Analytics, CI/CD Deployment, Online Coding Tests
 
 ### 📡 [EventBeacon](https://github.com/Naman-27072004/EventBeacon)
 Flutter + Firebase Event Management Application
+*   **Description**: Built a cross-platform Flutter application for university event management using Firebase Authentication, Cloud Firestore, Provider, and Firebase Cloud Messaging, supporting 50+ users with role-based access, offline support, event registration, automated reminder notifications, and Google Sign-In.
 *   **Tech Stack**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 *   **Features**: Google Login, Push Notifications, Offline Support, Firebase Backend
 
