@@ -265,10 +265,14 @@ Flutter + Firebase Event Management Application
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naman-27072004/Naman-27072004/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naman-27072004/Naman-27072004/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naman-27072004/Naman-27072004/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Naman-27072004/Naman-27072004/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-> **⚠️ Note:** This requires a GitHub Action to generate the snake animation.
+> 💡 **Tip:** The snake animation is automatically generated and updated daily via a [GitHub Action](.github/workflows/generate-snake.yml).
 
 ---
 
