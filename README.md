@@ -127,16 +127,16 @@ Flutter + Firebase Event Management Application
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,python,php,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,ts,python,php,cpp,rust" />
   <img height="40" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### 🎨 Frontend
+### 🎨 Frontend & Desktop
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,tauri" />
 </p>
 
 ---
@@ -161,7 +161,7 @@ Flutter + Firebase Event Management Application
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
 </p>
 
 ---
@@ -182,6 +182,16 @@ Flutter + Firebase Event Management Application
   <img height="40" src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge" />
   <img height="40" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img height="40" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+### 🔐 Security & Visualization
+
+<p align="left">
+  <img height="40" src="https://img.shields.io/badge/Apache_ECharts-AA3B32?style=for-the-badge&logo=apacheecharts&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/AES--256--GCM-00599C?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Argon2id_Vault-4285F4?style=for-the-badge" />
 </p>
 
 ---
