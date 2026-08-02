@@ -280,11 +280,11 @@ Flutter + Firebase Event Management Application
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Naman-27072004/orion/pull/16) in [Naman-27072004/orion](https://github.com/Naman-27072004/orion)
-2. 💪 Opened PR [#16](https://github.com/Naman-27072004/orion/pull/16) in [Naman-27072004/orion](https://github.com/Naman-27072004/orion)
-3. ❗ Opened issue [#4](https://github.com/Naman-27072004/Naman-27072004/issues/4) in [Naman-27072004/Naman-27072004](https://github.com/Naman-27072004/Naman-27072004)
-4. 🎉 Merged PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
-5. 💪 Opened PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
+1. 🚀 Published release [Orion v0.1.0 - System Intelligence & Performance Platform](https://github.com/Naman-27072004/orion/releases/tag/v0.1.0) in [Naman-27072004/orion](https://github.com/Naman-27072004/orion)
+2. 🎉 Merged PR [#16](https://github.com/Naman-27072004/orion/pull/16) in [Naman-27072004/orion](https://github.com/Naman-27072004/orion)
+3. 💪 Opened PR [#16](https://github.com/Naman-27072004/orion/pull/16) in [Naman-27072004/orion](https://github.com/Naman-27072004/orion)
+4. ❗ Opened issue [#4](https://github.com/Naman-27072004/Naman-27072004/issues/4) in [Naman-27072004/Naman-27072004](https://github.com/Naman-27072004/Naman-27072004)
+5. 🎉 Merged PR [#3](https://github.com/MalyaKapoor/ResearchLens-AI/pull/3) in [MalyaKapoor/ResearchLens-AI](https://github.com/MalyaKapoor/ResearchLens-AI)
 <!--END_SECTION:activity-->
 
 ---
